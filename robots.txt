@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /cdn-cgi/l/email-protection
+Allow: /
+
+Sitemap: https://civilconstruction.alwejhagroup.com/sitemap.xml
